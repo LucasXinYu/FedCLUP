@@ -1,0 +1,6 @@
+matplotlib==3.9.2
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+pandas==2.2.2
+numpy==1.26.4
